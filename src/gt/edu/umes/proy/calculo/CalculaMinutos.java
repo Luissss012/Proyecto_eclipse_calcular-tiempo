@@ -1,5 +1,6 @@
 
 // Proyecto de Ingenieria de Software II y prueba de commit
+// Proyecto de Ingenieria de Software II y prueba de commit
 package gt.edu.umes.proy.calculo;
 
 public class CalculaMinutos {
